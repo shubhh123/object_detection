@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-mergeDebugResources-51:\\layout\\fragment_camera.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-54:\\layout\\fragment_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-mergeDebugResources-51:\\layout\\info_bottom_sheet.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-54:\\layout\\info_bottom_sheet.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.objectdetection.app-mergeDebugResources-51:/layout/activity_main.xml",
+        "source": "org.tensorflow.lite.examples.objectdetection.app-main-54:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-mergeDebugResources-51:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-54:\\layout\\activity_main.xml"
+    }
+]
